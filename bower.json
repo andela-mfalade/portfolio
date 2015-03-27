@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio app",
+  "version": "0.0.0",
+  "authors": [
+    "mayowa.falade@andela.co"
+  ],
+  "description": "A simple app built implementing google angular material",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-material": "~0.8.3",
+    "angular-animate": "~1.3.14",
+    "angular-aria": "~1.3.14",
+    "hammerjs": "~2.0.4",
+    "angular-route": "~1.3.14"
+  }
+}
